@@ -67,3 +67,7 @@ footer.page-footer {
 .header {
   text-shadow: 5px 5px black;
 }
+
+.links a {
+  text-decoration: none!important;
+}
