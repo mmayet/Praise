@@ -75,3 +75,8 @@ footer.page-footer {
   text-decoration: none!important;
 }
 
+.standout {
+    font-weight: bold;
+    color: white;
+}
+
