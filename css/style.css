@@ -83,3 +83,7 @@ footer.page-footer {
 .centerblock {
     text-align: center;
 }
+
+.poemsection {
+    display: none;
+}
