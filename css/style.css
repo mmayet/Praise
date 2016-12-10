@@ -77,7 +77,7 @@ footer.page-footer {
 
 .standout {
     font-weight: bold;
-    color: white;
+    color: green;
 }
 
 .centerblock {
@@ -85,5 +85,5 @@ footer.page-footer {
 }
 
 .poemsection {
-    display: none;
+    /*display: none;*/
 }
