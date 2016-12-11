@@ -85,5 +85,5 @@ footer.page-footer {
 }
 
 .poemsection {
-    display: none;
+    display: none!important;
 }
