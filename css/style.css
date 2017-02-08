@@ -124,3 +124,7 @@ h6 {
 .noshow {
     color: white;
 }
+
+.miniletter {
+    font-size: 40%;
+}
