@@ -120,3 +120,7 @@ h6 {
     font-family: 'quran';
     line-height: 200%;
 }
+
+.noshow {
+    color: white;
+}
